@@ -6,7 +6,7 @@ import os
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 import os
-
+#哈哈哈ㄏ 
 
 def setup_llm_chain():
     llm = ChatOpenAI(
